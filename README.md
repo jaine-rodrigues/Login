@@ -1,6 +1,8 @@
 # 🔐 Tela de Login
 
-Interface de login com efeito glassmorphism (vidro fosco), desenvolvida com HTML e CSS puro.
+Interface de login com efeito glassmorphism (vidro fosco) e fundo temático noturno, desenvolvida com HTML e CSS puro.
+
+![Tela de Login](./img/screenshot.png)
 
 ## ✨ Funcionalidades
 
